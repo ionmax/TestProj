@@ -12,6 +12,9 @@ namespace Task1
         {
             Console.WriteLine("");
             Console.WriteLine();
+
+
+            var i = 1;
         }
     }
 }
